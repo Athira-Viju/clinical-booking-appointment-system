@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 "# Clinic_website" 
 "# Mini-Project-S6" 
 "# Mini-Project-S6" 
+"# Mini-Project-S6" 
