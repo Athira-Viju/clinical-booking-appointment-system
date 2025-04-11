@@ -14,3 +14,4 @@ Currently, two official plugins are available:
 "# S6-Mini-Project" 
 "# S6-Mini-Project" 
 "# S6-Mini-Project" 
+"database"
