@@ -11,3 +11,4 @@ Currently, two official plugins are available:
 "# Mini-Project-S6" 
 "# Mini-Project-S6" 
 "# S6-Mini-Project" 
+"# S6-Mini-Project" 
