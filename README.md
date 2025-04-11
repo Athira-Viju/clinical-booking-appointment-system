@@ -14,4 +14,4 @@ Currently, two official plugins are available:
 "# S6-Mini-Project" 
 "# S6-Mini-Project" 
 "# S6-Mini-Project" 
-"database"
+-"create database using the mongodb code provided in database within backend floder to get backend support"
